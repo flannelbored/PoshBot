@@ -20,7 +20,7 @@ New-PoshBotCardResponse [[-Type] <String>] [-DM] [[-Text] <String>] [[-Title] <S
 
 ## DESCRIPTION
 Responses from PoshBot commands can either be plain text or formatted.
-Returning a response with New-PoshBotRepsonse will tell PoshBot
+Returning a response with New-PoshBotResponse will tell PoshBot
 to craft a specially formatted message when sending back to the chat network.
 
 ## EXAMPLES
